@@ -8,12 +8,14 @@ public class stud {
 		// TODO Auto-generated method stub
 		
 		student s1 = new student(24, 'M');
-		student s2 = new student(26, 'M');
-		student s3 = new student(24, 'M');
-		student s4 = new student(24, 'M');
+		student s2 = new student(26, 'F');
+		student s3 = new student(21, 'M');
+		student s4 = new student(34, 'F');
 		
 		s1.printingStudent();
 		s2.printingStudent();
+		s3.printingStudent();
+		s4.printingStudent();
 		
 
 	}

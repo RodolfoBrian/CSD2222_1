@@ -15,7 +15,8 @@ public class student {
 	}
 	
 	public void printingStudent(){
-		System.out.println("the age is "+ age + "Gender is " + gender );
+		System.out.println("The age is " + age + " Gender is " + gender );
+		System.out.println("******************************");
 	}
 	
 	
